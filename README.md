@@ -6,4 +6,4 @@
 <div>Prodi:sistem informasi</div>
 
 * pratikum 1 :pengenal variable`coba coba ji.py`
-* pratikum 1 :operator`coba coba ji 2.py`
+* pratikum 2 :operator`coba coba ji 2.py`
